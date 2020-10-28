@@ -5,7 +5,6 @@
 #### В качестве источников информации выступили:
 <!--ts-->
   * Tomasz Grysztar. Flat Assembler Programmer’s Manual [Электронный ресурс]. – Официальный сайт FASM. Режим доступа: http://flatassembler.net/docs.php?article=manual <br />
-  * https://github.com/goliwok/fasm-factorial <br />
   * https://www.tutorialspoint.com/assembly_programming/assembly_tutorial.pdf <br />
 <!--te-->
 ### Вариант 5. 
