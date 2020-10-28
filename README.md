@@ -29,7 +29,7 @@
   ![](Materials/Screenshots/0,5check.png)</br>
 ### Тест 3
 - **Введём число 0.999, на выходе получаем ответ программы: 1,41398 (небольшая погрешность от правильного ответа, менее 0,05%)**</br>
-  ![](Materials/Screenshots/0,999example.png)</br>
+  ![](Materials/Screenshots/0.999example.png)</br>
 - **Проверяем правильный ответ в среде Wolfram Mathematica**</br>
   При запуске программы пользователю предлагается следующий выбор:
   ![](Materials/Screenshots/0,999check.png)</br>
